@@ -801,6 +801,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 - [mailbox.org](https://mailbox.org/) - Paid email, calendar and office suite based in Germany, with built-in PGP encryption and no ads.
 - [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
 - [Mailfence](https://mailfence.com) - Secure and private email.
+- [VaelMail](https://vaelmail.com) - Privacy-first webmail with 16-digit account keys, zero phone verification, persistent @vael.pw aliases, and native Tor/I2P support. Based in Sweden.
 
 ### Self-Hosted
 - [Docker mail server](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
